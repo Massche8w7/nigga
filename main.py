@@ -5,8 +5,8 @@ from collections import deque
 from threading import Thread
 from fake_useragent import UserAgent
 from bs4 import BeautifulSoup
-from keep_alive import keep_alive
-keep_alive()
+#from keep_alive import keep_alive
+#keep_alive()
 
 
 BOT_API_KEY = '7428987544:AAEiXKXNP0PThli18uwz2Xch8rp3SNKYxPk'
